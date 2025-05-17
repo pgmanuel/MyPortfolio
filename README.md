@@ -1,4 +1,4 @@
-# Pedro Manuel Portfolio
+# Pedro Manuel - Portfolio
 
 I'm a Business Intelligence Analyst and Data Warehouse Developer skilled with more 15 Years experience. I thrive on the challenge of turning complex data into clear and understandable information. As a Business Intelligence Analyst and Data Warehouse Developer, I'm dedicated to building robust data warehouses implementing Exptraction, transforming, and loading (ETL) data to create efficient and scalable data warehouse architectures. I leverage BI tools to analyze data, identify trends, and communicate findings effectively as delivering impactful analyses that support informed business decisions.
 
