@@ -16,6 +16,7 @@ My core revolve around the **Microsoft Azure ecosystem**, including:
 * **Programming & Scripting:** C#, VBA (Excel automation), Linux (CentOS)
 * **Data Visualization:** TIBCO Data Visualization
 
-I leverage these tools to design and implement **OLAP/MOLAP data warehouse solutions**, applying best-practice ETL methodologies within a collaborative **DevOps framework**.
+--
+I leverage these tools to design and implement OLAP/MOLAP data warehouse solutions, applying best-practice ETL methodologies within a collaborative DevOps framework.
 ---
 Let's talk about data and how it can drive your business forward!
