@@ -4,6 +4,7 @@ I'm a seasoned **Business Intelligence Analyst and Data Warehouse Developer** wi
 I specialize in building **robust, scalable data warehouse architectures** and implementing efficient **Extract, Transform, and Load (ETL)** processes. My expertise spans the entire BI lifecycle, from data ingestion and modeling to impactful visualization.
 
 This portfolio showcases my proven ability to design and implement end-to-end data solutions, develop sophisticated ETL pipelines, and create compelling visualizations that empower business stakeholders.
+
 ---
 ## Technical Expertise
 My core revolve around the **Microsoft Azure ecosystem**, including:
