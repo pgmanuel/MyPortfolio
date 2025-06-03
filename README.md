@@ -1,9 +1,21 @@
-# Pedro Manuel - Portfolio
+# About Me
 
-I'm a Business Intelligence Analyst and Data Warehouse Developer skilled with more 15 Years experience. I thrive on the challenge of turning complex data into clear and understandable information. As a Business Intelligence Analyst and Data Warehouse Developer, I'm dedicated to building robust data warehouses implementing Exptraction, transforming, and loading (ETL) data to create efficient and scalable data warehouse architectures. I leverage BI tools to analyze data, identify trends, and communicate findings effectively as delivering impactful analyses that support informed business decisions.
+I'm a seasoned **Business Intelligence Analyst and Data Warehouse Developer** with **over 15 years of experience**. My passion lies in transforming complex data into clear, actionable insights that drive informed business decisions.
+I specialize in building **robust, scalable data warehouse architectures** and implementing efficient **Extract, Transform, and Load (ETL)** processes. My expertise spans the entire BI lifecycle, from data ingestion and modeling to impactful visualization.
 
-The follow portfolio highlights my experience in designing and implementing data warehouses, developing ETL pipelines, and creating impactful visualizations to empower business stakeholders at end-to-end.
+This portfolio showcases my proven ability to design and implement end-to-end data solutions, develop sophisticated ETL pipelines, and create compelling visualizations that empower business stakeholders.
+---
+## Technical Expertise
+My core revolve around the **Microsoft Azure ecosystem**, including:
 
-As a skilled Business Intelligence Analyst and Data Warehouse Developer with a focus on transforming raw data into actionable insights. My core strengths lie in utilizing the comprehensive Microsoft Azure Synapse and Fabric suite, including Data Factory, Data Lake, Semantic Tabular Models, and Power BI, complemented by strong DAX and PySpark skills for efficient data processing. I have a proven ability to design and implement data warehouse solutions (OLAP, MOLAP), apply ETL methodologies, and manage SSAS Tabular models within a DevOps framework. Furthermore, I bring extensive experience in SQL Server (including advanced T-SQL and automation with VBA in Excel), Linux (CentOS), C#, and TIBCO Data Visualization.
+* **Cloud Data Platforms:** Azure Synapse, Microsoft Fabric (Data Lake, Pipelines, Medallion Layers)
+* **BI & Analytics:** Power BI, Semantic/Tabular Models (SSAS), DAX
+* **Data Engineering:** Azure Data Factory, PySpark, SSIS (ETL), T-SQL (Advanced tuning)
+* **Database Management:** SQL Server (design, stored procedures, views)
+* **DevOps & Version Control:** Git, Azure DevOps
+* **Programming & Scripting:** C#, VBA (Excel automation), Linux (CentOS)
+* **Data Visualization:** TIBCO Data Visualization
 
-So, Let's talk about data! ;-)
+I leverage these tools to design and implement **OLAP/MOLAP data warehouse solutions**, applying best-practice ETL methodologies within a collaborative **DevOps framework**.
+---
+Let's talk about data and how it can drive your business forward!
